@@ -4,19 +4,19 @@ In [Web Solution with Wordpress](https://github.com/dybran/Project-6/blob/main/p
 
 I will introduce a set of DevOps tools that will help a team in day to day activities in managing, developing, testing, deploying and monitoring different projects. These tools are well known and widely used by multiple DevOps teams, so i will introduce a single DevOps Tooling Solution that will consist of:
 
-__Jenkins__ – free and open source automation server used to build CI/CD pipelines.
+- [__Jenkins__](https://www.jenkins.io/)
 
-__Kubernetes__ – an open-source container-orchestration system for automating computer application deployment, scaling, and management.
+- [__Kubernetes__](https://kubernetes.io/)
 
-__Jfrog Artifactory__ – Universal Repository Manager supporting all major packaging formats, build tools and CI servers artifactory.
+- [__Jfrog Artifactory__](https://jfrog.com/artifactory/)
 
-__Rancher__ – an open source software platform that enables organizations to run and manage Docker and Kubernetes in production.
+- [__Rancher__](https://www.rancher.com/)
 
-__Grafana__ – a multi-platform open source analytics and interactive visualization web application.
+- [__Grafana__](https://newrelic.com/lp/grafana-monitoring?utm_medium=cpc&utm_source=google&utm_campaign=EVER-GREEN_NB_SEARCH_GRAFANA_EMEA_UKIISA_EN&utm_network=g&utm_keyword=grafana&utm_device=c&_bt=591873806539&_bm=e&_bn=g&gclid=CjwKCAiAoL6eBhA3EiwAXDom5n1F3ISFQ0acFYLxNIw180AxlB_UV_2HpaT7k0fVntfDGagjWVIKaRoCVq0QAvD_BwE)
 
-__Prometheus__– An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach.
+- [__Prometheus__](https://prometheus.io/)
 
-__Kibana__ – Kibana is a free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack.
+- [__Kibana__](https://www.elastic.co/kibana/)
 
 As a member of a DevOps team, you will implement a tooling website solution which makes access to DevOps tools within the corporate infrastructure easily accessible.
 
