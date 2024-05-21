@@ -298,9 +298,11 @@ Verify that Apache files and directories are available on the Web Server in __/v
  To test this, we will try to create a new file touch __test.txt__ from one server and check if the same file is accessible from other Web Servers.
 
 File created on __Web02__
+
 ![image](./images/created-file-on-web02.PNG)
 
 File seen from __Web01__
+
 ![image](./images/nfsserver-seen-file.PNG)
 
 Locate the log folder for Apache on the Web Server and mount it to NFS server’s export for logs. 
